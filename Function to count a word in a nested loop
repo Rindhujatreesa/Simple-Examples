@@ -1,2 +1,3 @@
 I have come across many looping functions for nested loops. However, most of them did not satisfy the purpose.
-When a list is not at all symmetric, the recursive functions easily go out of the loop. This function consists of a recursive function curated to stay within the loop without stopping in between
+When a list is not at all symmetric, the recursive functions easily go out of the loop. 
+This function consists of a recursive function curated to stay within the loop without stopping in between
